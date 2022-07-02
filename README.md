@@ -1,7 +1,8 @@
 # Coloroma-Template
 
-Template teste of colorama colors
+Template teste para o colorama
 
 Mostra todas as combinações de cores do colorama no terminal.
 
-![Screenshot](colorama teste template.png)
+
+<img src="colorama teste template.png"></img>
